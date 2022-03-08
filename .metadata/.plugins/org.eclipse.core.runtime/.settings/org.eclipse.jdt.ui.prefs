@@ -1,0 +1,10 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="com.sasmita.unittesting.unittesting.business.SomeBusinessImpl"><rhs name\="com.sasmita.unittesting.unittesting.business.SomeBusinessImpl"/></lhs><lhs name\="org.springframework.util.MimeType"><rhs name\="org.springframework.http.MediaType"/></lhs><lhs name\="org.springframework.http.MediaType"><rhs name\="org.springframework.http.MediaType"/></lhs><lhs name\="com.sasmita.unittesting.unittesting.model.Item"><rhs name\="com.sasmita.unittesting.unittesting.model.Item"/></lhs></history>
+content_assist_number_of_computers=15
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.ui.formatterprofiles.version=21
+spelling_locale=en_GB
+spelling_locale_initialized=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

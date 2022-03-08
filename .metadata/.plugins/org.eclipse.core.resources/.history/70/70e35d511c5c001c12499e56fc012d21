@@ -1,0 +1,11 @@
+package com.sasmita.unittesting.unittesting.business;
+
+import java.util.stream.IntStream;
+
+public class SomeBusinessImpl {
+	
+	public int calculateSum(int[] data) {
+		return  IntStream.of(data).reduce(Integer::sum).getAsInt();
+	}
+
+}

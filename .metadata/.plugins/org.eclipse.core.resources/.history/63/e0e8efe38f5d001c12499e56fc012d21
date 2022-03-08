@@ -1,0 +1,18 @@
+package com.sasmita.unittesting.unittesting.spike;
+
+import org.junit.jupiter.api.Test;
+
+public class JsonPathTest {
+	
+	@Test
+	public void learning() {
+		
+		String responseFromservice = "["
+				+ "{\"id\":10000,\"name\":\"Pencil\",\"quantity\":5},"
+				+ "{\"id\":10001,\"name\":\"Pen\",\"quantity\":15},"
+				+ "{\"id\":10002,\"name\":\"Eraser\",\"quantity\":10}"
+				+ "]";
+		
+	}
+
+}

@@ -1,0 +1,12 @@
+package com.sasmita.unittesting.unittesting.business;
+
+import com.sasmita.unittesting.unittesting.model.Item;
+
+public class ItemBusinessService {
+
+	public Item hardCodedItem() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

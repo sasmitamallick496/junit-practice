@@ -1,0 +1,1857 @@
+!SESSION 2021-12-12 17:48:36.190 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_GB
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2021-12-12 17:48:53.557
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-12-12 17:48:53.558
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5b6f3d0b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@8e77c5b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-12-12 17:49:06.437
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\INE12362133'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.amazonaws.eclipse.core 1 0 2021-12-12 17:49:08.195
+!MESSAGE Starting the AWS toolkit core plugin...
+
+!ENTRY com.amazonaws.eclipse.core 1 0 2021-12-12 17:49:11.710
+!MESSAGE No profile found: default
+
+!ENTRY com.amazonaws.eclipse.core 1 0 2021-12-12 17:49:11.837
+!MESSAGE Monitoring content of C:\Users\INE12362133\.aws\credentials
+
+!ENTRY com.amazonaws.eclipse.core 1 0 2021-12-12 17:49:13.802
+!MESSAGE AWS toolkit core plugin initialized after 5601 milliseconds.
+
+!ENTRY com.amazonaws.eclipse.core 1 0 2021-12-12 17:49:13.886
+!MESSAGE The current accountId is not found in the system. Switching to the default account.
+
+!ENTRY com.amazonaws.eclipse.core 1 0 2021-12-12 17:49:15.211
+!MESSAGE Initialized a new Cognito identity us-east-1:42fdef17-1ed0-48eb-acc2-953ee4ec1de5
+
+!ENTRY Activator 1 0 2021-12-12 18:13:47.058
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-12 18:13:49.237
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-12 18:13:50.134
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-12 18:13:50.932
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-12 18:13:54.346
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-12 18:13:54.983
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY org.eclipse.ui 2 2 2021-12-12 20:48:53.275
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+!SESSION 2021-12-13 13:11:30.364 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_GB
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2021-12-13 13:46:43.853
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-12-13 13:46:43.853
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@75fa9254,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6f25ed2b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.amazonaws.eclipse.core 1 0 2021-12-13 13:46:49.993
+!MESSAGE Starting the AWS toolkit core plugin...
+
+!ENTRY com.amazonaws.eclipse.core 1 0 2021-12-13 13:46:50.791
+!MESSAGE Monitoring content of C:\Users\INE12362133\.aws\credentials
+
+!ENTRY com.amazonaws.eclipse.core 1 0 2021-12-13 13:46:51.473
+!MESSAGE AWS toolkit core plugin initialized after 1479 milliseconds.
+
+!ENTRY com.amazonaws.eclipse.core 1 0 2021-12-13 13:46:51.696
+!MESSAGE Found valid identity id cache us-east-1:42fdef17-1ed0-48eb-acc2-953ee4ec1de5
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-12-13 13:46:55.564
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\INE12362133'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY Activator 1 0 2021-12-13 13:47:01.715
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 13:47:09.468
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY org.eclipse.ui 2 2 2021-12-13 13:47:36.421
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-13 13:47:59.597
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-13 13:47:59.693
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@55780752[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-13 13:47:59.724
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY Activator 1 0 2021-12-13 13:47:59.824
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-13 13:48:00.000
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY Activator 1 0 2021-12-13 13:48:01.742
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 13:48:07.424
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-13 13:48:09.946
+!MESSAGE Boot LS startup time from start to initialized: 10205ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-13 13:48:10.532
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.mpwkrHqPisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-13 13:48:10.561
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-13 13:48:10.568
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-13 13:48:10.579
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-13 13:48:10.582
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-13 13:48:10.597
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.mpwkrHqP => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-13 13:48:10.701
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-13 13:48:10.730
+!MESSAGE buffering callback sts4.classpath.mpwkrHqP unit-testing false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-13 13:48:10.733
+!MESSAGE executing callback sts4.classpath.mpwkrHqP 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-13 13:48:11.586
+!MESSAGE executing callback sts4.classpath.mpwkrHqP SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-12-13 13:51:38.118
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 13:51:38.956
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 13:52:35.693
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 13:52:36.955
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 13:53:32.938
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 13:53:34.728
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-12-13 13:54:57.342
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2021-12-13 13:55:19.853
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 13:55:20.694
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 13:55:23.612
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 13:55:24.917
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 13:56:12.600
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 13:56:13.509
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 13:59:18.464
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 13:59:19.598
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 14:00:05.030
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 14:00:05.736
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 14:06:25.005
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 14:06:25.691
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 14:08:54.833
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 14:08:55.502
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 14:09:15.497
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 14:09:16.159
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 14:12:03.169
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 14:12:03.982
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 14:12:48.988
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 14:12:49.670
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 14:16:50.858
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 14:16:51.577
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-12-13 14:16:59.459
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2021-12-13 14:19:53.640
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 14:19:54.347
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 14:22:14.367
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 14:22:15.141
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 14:23:28.174
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 14:23:29.045
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 14:24:03.445
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 14:24:04.115
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 14:24:28.292
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 14:24:28.950
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 21:11:03.007
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 21:11:03.729
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 21:14:19.321
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 21:14:20.082
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 21:14:34.268
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 21:14:34.983
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 21:15:32.841
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 21:15:33.545
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 21:16:14.764
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 21:16:15.517
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 21:16:36.028
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 21:16:36.761
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-13 21:22:03.747
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.mpwkrHqP
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-13 21:22:03.753
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.mpwkrHqP
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-13 21:22:03.756
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-13 21:22:03.785
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.mpwkrHqP => OK
+
+!ENTRY Activator 1 0 2021-12-13 21:27:53.218
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-13 21:27:53.551
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-13 21:27:53.571
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@55780752[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-13 21:27:53.581
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY Activator 1 0 2021-12-13 21:27:56.926
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-13 21:28:03.265
+!MESSAGE Boot LS startup time from start to initialized: 9646ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-13 21:28:03.745
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.zSItMyRqisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-13 21:28:03.749
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-13 21:28:03.802
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-13 21:28:03.814
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-13 21:28:03.816
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-13 21:28:03.818
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.zSItMyRq => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-13 21:28:03.834
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-13 21:28:03.852
+!MESSAGE buffering callback sts4.classpath.zSItMyRq unit-testing false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-13 21:28:03.865
+!MESSAGE executing callback sts4.classpath.zSItMyRq 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-13 21:28:04.878
+!MESSAGE executing callback sts4.classpath.zSItMyRq SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-12-13 21:29:20.863
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 21:29:22.050
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 21:29:33.517
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 21:29:34.433
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 21:29:41.934
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 21:29:42.891
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 21:32:57.580
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 21:32:58.640
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 21:33:05.529
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 21:33:06.248
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 21:33:27.565
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 21:33:28.280
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 21:34:16.311
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 21:34:17.349
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 21:34:27.049
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-13 21:34:27.767
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 09:41:27.640
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 09:41:28.622
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 09:42:41.999
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 09:42:43.014
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 09:48:29.019
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 09:48:29.671
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 09:52:17.297
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 09:52:18.002
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 09:53:42.699
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 09:53:43.362
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 09:53:58.771
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 09:53:59.619
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 09:55:39.382
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 09:55:40.135
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 09:57:34.248
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 09:57:34.920
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 09:57:38.646
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 09:57:39.309
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 09:58:28.612
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 09:58:29.939
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 09:59:34.712
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 09:59:35.892
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 10:05:17.714
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 10:05:18.427
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 10:05:22.188
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 10:05:22.909
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 10:05:35.825
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 10:05:36.577
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 10:07:04.937
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 10:07:05.671
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 10:08:30.513
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 10:08:31.171
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 10:10:42.428
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 10:10:43.073
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 10:12:32.757
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 10:12:33.469
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 10:13:22.963
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 10:13:23.700
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 10:13:26.048
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 10:13:26.730
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 10:13:34.384
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 10:13:35.050
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 10:14:17.699
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 10:14:18.422
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 10:19:04.393
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 10:19:05.261
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 10:20:24.592
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 10:20:25.383
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 10:22:32.429
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 10:22:33.085
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 10:23:50.764
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 10:23:51.420
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 10:24:33.892
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 10:24:34.550
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 12:35:52.922
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 12:35:53.660
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 12:36:26.818
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 12:36:27.560
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 12:36:40.484
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 12:36:41.168
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 12:36:52.031
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 12:36:52.747
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 12:39:29.069
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 12:39:29.851
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 12:39:34.259
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 12:39:35.091
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 12:40:56.855
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 12:40:57.642
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-14 12:43:08.891
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.zSItMyRq
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-14 12:43:08.911
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.zSItMyRq
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-14 12:43:08.915
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-14 12:43:08.918
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.zSItMyRq => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-14 12:43:21.803
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-14 12:43:21.808
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@55780752[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-14 12:43:21.810
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-14 12:43:29.714
+!MESSAGE Boot LS startup time from start to initialized: 7898ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-14 12:43:29.877
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.fdZCpwbCisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-14 12:43:29.881
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-14 12:43:29.885
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-14 12:43:29.892
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-14 12:43:29.895
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-14 12:43:29.910
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.fdZCpwbC => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-14 12:43:29.915
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-14 12:43:29.936
+!MESSAGE buffering callback sts4.classpath.fdZCpwbC unit-testing false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-14 12:43:29.940
+!MESSAGE executing callback sts4.classpath.fdZCpwbC 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-14 12:43:30.674
+!MESSAGE executing callback sts4.classpath.fdZCpwbC SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-12-14 12:45:20.859
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 12:45:23.820
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 12:45:32.172
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 12:45:33.138
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 12:45:35.268
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 12:45:36.533
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 12:45:51.624
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 12:45:52.533
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 12:46:27.888
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 12:46:28.888
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-12-14 12:47:11.484
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2021-12-14 12:47:11.948
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 12:47:13.022
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 12:47:33.350
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 12:47:34.733
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 12:50:01.026
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 12:50:01.726
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-12-14 12:52:12.501
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2021-12-14 12:53:18.106
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 12:53:18.920
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 12:53:26.557
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 12:53:27.461
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 12:54:40.151
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 12:54:40.925
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY org.eclipse.jface 2 0 2021-12-14 12:59:05.126
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-12-14 12:59:05.126
+!MESSAGE A conflict occurred for CTRL+SHIFT+C:
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.eclipse.tm4e.languageconfiguration.togglelinecommentcommand,Toggle Line Comment,
+		,
+		Category(org.eclipse.tm4e.languageconfiguration.category,TM4E Language Configuration,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1a318933,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.springframework.tooling.boot.ls.ToggleComment,Toggle Comment,
+		,
+		Category(org.springframework.ide.eclipse.commands,Spring Generic Text Editor,Spring Language Server Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@74d6acf2,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY Activator 1 0 2021-12-14 12:59:07.583
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 12:59:08.039
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 12:59:58.576
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:00:08.335
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:00:30.824
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-14 13:00:30.895
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-14 13:00:30.939
+!MESSAGE classpath=89 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-14 13:00:30.963
+!MESSAGE buffering callback sts4.classpath.fdZCpwbC unit-testing false 89
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-14 13:00:30.992
+!MESSAGE executing callback sts4.classpath.fdZCpwbC 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-14 13:00:32.995
+!MESSAGE executing callback sts4.classpath.fdZCpwbC FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2021-12-14 13:00:32.998
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1956)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2091)
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:37)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 1 0 2021-12-14 13:00:33.217
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:00:35.991
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:00:39.193
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:00:40.516
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:00:41.982
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-14 13:00:41.994
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-14 13:00:42.040
+!MESSAGE classpath=89 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-14 13:00:42.099
+!MESSAGE buffering callback sts4.classpath.fdZCpwbC unit-testing false 89
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-14 13:00:42.108
+!MESSAGE executing callback sts4.classpath.fdZCpwbC 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-14 13:00:42.320
+!MESSAGE executing callback sts4.classpath.fdZCpwbC SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-12-14 13:00:44.399
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:00:58.854
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:01:28.134
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:01:31.468
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:01:31.862
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:01:32.219
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:01:36.971
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:01:51.391
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:02:03.395
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-14 13:02:03.614
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-14 13:02:03.776
+!MESSAGE classpath=90 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-14 13:02:03.890
+!MESSAGE buffering callback sts4.classpath.fdZCpwbC unit-testing false 90
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-14 13:02:03.962
+!MESSAGE executing callback sts4.classpath.fdZCpwbC 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-14 13:02:06.046
+!MESSAGE executing callback sts4.classpath.fdZCpwbC FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2021-12-14 13:02:06.059
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1956)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2091)
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:37)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 1 0 2021-12-14 13:02:06.794
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:02:07.643
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:02:08.975
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:02:11.413
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:04:09.891
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-12-14 13:04:10.829
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1956)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2091)
+	at org.eclipse.lsp4e.operations.linkedediting.LSPLinkedEditingReconcilingStrategy.customizeDocumentCommand(LSPLinkedEditingReconcilingStrategy.java:230)
+	at org.eclipse.jface.text.TextViewer.customizeDocumentCommand(TextViewer.java:3629)
+	at org.eclipse.jface.text.TextViewer.handleVerifyEvent(TextViewer.java:3660)
+	at org.eclipse.jface.text.source.projection.ProjectionViewer.handleVerifyEvent(ProjectionViewer.java:1248)
+	at org.eclipse.jface.text.TextViewer$TextVerifyListener.verifyText(TextViewer.java:427)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:277)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4209)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1043)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1067)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1052)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:766)
+	at org.eclipse.swt.custom.StyledText.modifyContent(StyledText.java:7402)
+	at org.eclipse.swt.custom.StyledText.sendKeyEvent(StyledText.java:8308)
+	at org.eclipse.swt.custom.StyledText.doContent(StyledText.java:2512)
+	at org.eclipse.swt.custom.StyledText.handleKey(StyledText.java:6075)
+	at org.eclipse.swt.custom.StyledText.handleKeyDown(StyledText.java:6106)
+	at org.eclipse.swt.custom.StyledText.lambda$1(StyledText.java:5795)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4209)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1043)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1067)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1052)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1094)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1090)
+	at org.eclipse.swt.widgets.Widget.wmChar(Widget.java:1519)
+	at org.eclipse.swt.widgets.Control.WM_CHAR(Control.java:4882)
+	at org.eclipse.swt.widgets.Canvas.WM_CHAR(Canvas.java:345)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4760)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:340)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4930)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(Native Method)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3624)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-12-14 13:04:11.472
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1956)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2091)
+	at org.eclipse.lsp4e.operations.linkedediting.LSPLinkedEditingReconcilingStrategy.updateLinkedEditingHighlights(LSPLinkedEditingReconcilingStrategy.java:355)
+	at org.eclipse.lsp4e.operations.linkedediting.LSPLinkedEditingReconcilingStrategy.documentChanged(LSPLinkedEditingReconcilingStrategy.java:331)
+	at org.eclipse.jface.text.AbstractDocument.doFireDocumentChanged2(AbstractDocument.java:748)
+	at org.eclipse.jface.text.AbstractDocument.doFireDocumentChanged(AbstractDocument.java:717)
+	at org.eclipse.jface.text.AbstractDocument.doFireDocumentChanged(AbstractDocument.java:701)
+	at org.eclipse.jface.text.AbstractDocument.fireDocumentChanged(AbstractDocument.java:775)
+	at org.eclipse.jface.text.AbstractDocument.replace(AbstractDocument.java:1100)
+	at org.eclipse.core.internal.filebuffers.SynchronizableDocument.replace(SynchronizableDocument.java:176)
+	at org.eclipse.jface.text.AbstractDocument.replace(AbstractDocument.java:1118)
+	at org.eclipse.core.internal.filebuffers.SynchronizableDocument.replace(SynchronizableDocument.java:164)
+	at org.eclipse.jface.text.DefaultDocumentAdapter.replaceTextRange(DefaultDocumentAdapter.java:223)
+	at org.eclipse.swt.custom.StyledText.modifyContent(StyledText.java:7434)
+	at org.eclipse.swt.custom.StyledText.sendKeyEvent(StyledText.java:8308)
+	at org.eclipse.swt.custom.StyledText.doContent(StyledText.java:2512)
+	at org.eclipse.swt.custom.StyledText.handleKey(StyledText.java:6075)
+	at org.eclipse.swt.custom.StyledText.handleKeyDown(StyledText.java:6106)
+	at org.eclipse.swt.custom.StyledText.lambda$1(StyledText.java:5795)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4209)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1043)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1067)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1052)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1094)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1090)
+	at org.eclipse.swt.widgets.Widget.wmChar(Widget.java:1519)
+	at org.eclipse.swt.widgets.Control.WM_CHAR(Control.java:4882)
+	at org.eclipse.swt.widgets.Canvas.WM_CHAR(Canvas.java:345)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4760)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:340)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4930)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(Native Method)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3624)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-12-14 13:04:11.993
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1956)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2091)
+	at org.eclipse.lsp4e.operations.linkedediting.LSPLinkedEditingReconcilingStrategy.customizeDocumentCommand(LSPLinkedEditingReconcilingStrategy.java:230)
+	at org.eclipse.jface.text.TextViewer.customizeDocumentCommand(TextViewer.java:3629)
+	at org.eclipse.jface.text.TextViewer.handleVerifyEvent(TextViewer.java:3660)
+	at org.eclipse.jface.text.source.projection.ProjectionViewer.handleVerifyEvent(ProjectionViewer.java:1248)
+	at org.eclipse.jface.text.TextViewer$TextVerifyListener.verifyText(TextViewer.java:427)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:277)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4209)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1043)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1067)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1052)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:766)
+	at org.eclipse.swt.custom.StyledText.modifyContent(StyledText.java:7402)
+	at org.eclipse.swt.custom.StyledText.sendKeyEvent(StyledText.java:8308)
+	at org.eclipse.swt.custom.StyledText.doContent(StyledText.java:2512)
+	at org.eclipse.swt.custom.StyledText.handleKey(StyledText.java:6075)
+	at org.eclipse.swt.custom.StyledText.handleKeyDown(StyledText.java:6106)
+	at org.eclipse.swt.custom.StyledText.lambda$1(StyledText.java:5795)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4209)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1043)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1067)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1052)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1094)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1090)
+	at org.eclipse.swt.widgets.Widget.wmChar(Widget.java:1519)
+	at org.eclipse.swt.widgets.Control.WM_CHAR(Control.java:4882)
+	at org.eclipse.swt.widgets.Canvas.WM_CHAR(Canvas.java:345)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4760)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:340)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4930)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(Native Method)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3624)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-12-14 13:04:12.552
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1956)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2091)
+	at org.eclipse.lsp4e.operations.linkedediting.LSPLinkedEditingReconcilingStrategy.updateLinkedEditingHighlights(LSPLinkedEditingReconcilingStrategy.java:355)
+	at org.eclipse.lsp4e.operations.linkedediting.LSPLinkedEditingReconcilingStrategy.documentChanged(LSPLinkedEditingReconcilingStrategy.java:331)
+	at org.eclipse.jface.text.AbstractDocument.doFireDocumentChanged2(AbstractDocument.java:748)
+	at org.eclipse.jface.text.AbstractDocument.doFireDocumentChanged(AbstractDocument.java:717)
+	at org.eclipse.jface.text.AbstractDocument.doFireDocumentChanged(AbstractDocument.java:701)
+	at org.eclipse.jface.text.AbstractDocument.fireDocumentChanged(AbstractDocument.java:775)
+	at org.eclipse.jface.text.AbstractDocument.replace(AbstractDocument.java:1100)
+	at org.eclipse.core.internal.filebuffers.SynchronizableDocument.replace(SynchronizableDocument.java:176)
+	at org.eclipse.jface.text.AbstractDocument.replace(AbstractDocument.java:1118)
+	at org.eclipse.core.internal.filebuffers.SynchronizableDocument.replace(SynchronizableDocument.java:164)
+	at org.eclipse.jface.text.DefaultDocumentAdapter.replaceTextRange(DefaultDocumentAdapter.java:223)
+	at org.eclipse.swt.custom.StyledText.modifyContent(StyledText.java:7434)
+	at org.eclipse.swt.custom.StyledText.sendKeyEvent(StyledText.java:8308)
+	at org.eclipse.swt.custom.StyledText.doContent(StyledText.java:2512)
+	at org.eclipse.swt.custom.StyledText.handleKey(StyledText.java:6075)
+	at org.eclipse.swt.custom.StyledText.handleKeyDown(StyledText.java:6106)
+	at org.eclipse.swt.custom.StyledText.lambda$1(StyledText.java:5795)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4209)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1043)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1067)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1052)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1094)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1090)
+	at org.eclipse.swt.widgets.Widget.wmChar(Widget.java:1519)
+	at org.eclipse.swt.widgets.Control.WM_CHAR(Control.java:4882)
+	at org.eclipse.swt.widgets.Canvas.WM_CHAR(Canvas.java:345)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4760)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:340)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4930)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(Native Method)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3624)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+
+!ENTRY Activator 1 0 2021-12-14 13:04:12.946
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:04:14.384
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:04:15.067
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:04:16.171
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:04:16.505
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:04:16.856
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:04:18.694
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:04:19.791
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:04:19.958
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:04:20.328
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:04:20.531
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:04:21.481
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:04:22.168
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:05:50.926
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:05:52.110
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:05:52.394
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:05:52.631
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:05:53.057
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:05:53.462
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:05:53.747
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:05:53.991
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:05:55.754
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:05:58.443
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:05:58.794
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:06:00.704
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:06:01.137
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:06:03.252
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:06:03.921
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:06:04.166
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:06:04.509
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:06:08.359
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:06:11.961
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:06:12.387
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:06:12.683
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:06:13.546
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:06:15.123
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:06:15.445
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:07:00.997
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:07:01.930
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:07:56.609
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:07:56.944
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:09:48.342
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:09:48.598
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:11:17.669
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 13:11:17.833
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 14:00:41.023
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 14:00:41.196
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 14:00:41.667
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 14:00:41.914
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 14:00:42.078
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 14:00:42.273
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 14:00:42.732
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 14:00:43.142
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 14:00:43.482
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 14:00:43.902
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 14:00:44.649
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 14:00:45.069
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 14:00:45.193
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 14:00:45.456
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 14:00:45.589
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 14:00:49.158
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 14:00:57.664
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 14:00:57.789
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 14:00:58.127
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 14:00:58.458
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 14:01:01.241
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 14:01:01.473
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 14:11:22.570
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 14:11:22.870
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 14:12:09.532
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 14:12:10.465
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 14:12:57.896
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 14:12:59.314
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-12-14 14:14:24.552
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2021-12-14 14:14:26.731
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 14:14:27.981
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 14:16:20.239
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 14:16:20.918
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 14:17:15.431
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 14:17:16.433
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 14:20:05.692
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 14:20:06.627
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 14:20:08.864
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 14:20:09.781
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 14:23:41.882
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 14:23:42.735
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 14:25:17.809
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 14:25:18.603
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 14:27:12.292
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 14:27:13.034
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 14:27:26.555
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 14:27:27.478
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 14:29:42.813
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 14:29:43.536
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 14:30:08.358
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 14:30:09.465
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 14:33:14.871
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 14:33:15.569
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-12-14 14:36:47.760
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2021-12-14 14:37:20.677
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 14:37:21.387
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 14:39:12.418
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 14:39:13.104
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 14:39:26.641
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 14:39:27.395
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 14:42:07.336
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 14:42:08.113
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 16:38:03.165
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 16:38:04.064
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 16:48:15.447
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 16:48:16.306
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 16:50:53.564
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 16:50:54.336
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-12-14 17:04:21.429
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2021-12-14 17:08:14.407
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 17:08:15.189
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 17:08:21.746
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-14 17:08:22.607
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-15 09:30:53.731
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-15 09:30:56.872
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-15 09:36:38.980
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-15 09:36:39.753
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-15 09:41:40.124
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-15 09:41:40.804
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-15 09:42:19.199
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-15 09:42:19.891
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-15 09:42:21.426
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-15 09:42:22.160
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-15 09:45:31.766
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-15 09:45:32.732
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-15 09:45:43.972
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-15 09:45:44.651
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-12-15 09:47:16.532
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2021-12-15 09:49:32.369
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-15 09:49:35.432
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-15 09:49:39.021
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-15 09:49:39.754
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-15 09:53:21.208
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-15 09:53:21.915
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-15 09:54:15.393
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-15 09:54:16.158
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-15 09:54:47.199
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-15 09:54:47.897
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-15 09:56:54.973
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-15 09:56:55.967
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-15 09:57:47.603
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-15 09:57:48.852
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-15 10:06:55.289
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-15 10:06:56.752
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-12-15 10:11:31.464
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2021-12-15 10:11:39.958
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-15 10:11:40.710
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-12-15 10:12:06.312
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2021-12-15 10:12:07.426
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-15 10:12:08.248
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-15 10:15:12.776
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-15 10:15:13.724
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-15 10:15:26.754
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-15 10:15:28.893
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-15 10:18:12.675
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY Activator 1 0 2021-12-15 10:18:13.692
+!MESSAGE Has main method computation for project 'unit-testing'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-19 20:28:42.061
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.fdZCpwbC
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-19 20:28:42.076
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.fdZCpwbC
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-19 20:28:42.097
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-19 20:28:42.108
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.fdZCpwbC => OK
+!SESSION 2021-12-20 09:28:49.373 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_GB
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2021-12-20 09:29:54.837
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-12-20 09:29:54.838
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6b32b678,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1b6683c4,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.amazonaws.eclipse.core 1 0 2021-12-20 09:30:29.475
+!MESSAGE Starting the AWS toolkit core plugin...
+
+!ENTRY com.amazonaws.eclipse.core 1 0 2021-12-20 09:30:33.131
+!MESSAGE Monitoring content of C:\Users\INE12362133\.aws\credentials
+
+!ENTRY com.amazonaws.eclipse.core 1 0 2021-12-20 09:30:35.196
+!MESSAGE AWS toolkit core plugin initialized after 5733 milliseconds.
+
+!ENTRY com.amazonaws.eclipse.core 1 0 2021-12-20 09:30:35.528
+!MESSAGE Found valid identity id cache us-east-1:42fdef17-1ed0-48eb-acc2-953ee4ec1de5
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-20 09:31:01.014
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-20 09:31:06.849
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@7093615f[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-20 09:31:06.982
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-20 09:31:16.347
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-12-20 09:31:21.019
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\INE12362133'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-20 09:31:27.848
+!MESSAGE Boot LS startup time from start to initialized: 11607ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-20 09:31:28.796
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.McaAwQsKisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-20 09:31:28.817
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-20 09:31:28.822
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-20 09:31:28.832
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-20 09:31:28.835
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-20 09:31:28.837
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.McaAwQsK => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-20 09:31:28.899
+!MESSAGE classpath=90 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-20 09:31:28.913
+!MESSAGE buffering callback sts4.classpath.McaAwQsK unit-testing false 90
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-20 09:31:28.917
+!MESSAGE executing callback sts4.classpath.McaAwQsK 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-12-20 09:31:30.249
+!MESSAGE executing callback sts4.classpath.McaAwQsK SUCCESS [done]

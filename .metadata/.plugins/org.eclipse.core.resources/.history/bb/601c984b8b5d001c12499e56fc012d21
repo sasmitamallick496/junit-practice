@@ -1,0 +1,18 @@
+package com.sasmita.unittesting.unittesting.spike;
+
+import static org.assertj.core.api.Assertions.assertThat;
+
+import java.util.List;
+
+import org.assertj.core.error.ShouldHaveSameSizeAs;
+import org.junit.jupiter.api.Test;
+
+public class HamcrestMatcherTest {
+	
+	@Test
+	public void learning() {
+		List<Integer> numbers = List.of(12,13,14);
+		assertThat(numbers,ShouldHaveSameSizeAs(3));
+	}
+
+}

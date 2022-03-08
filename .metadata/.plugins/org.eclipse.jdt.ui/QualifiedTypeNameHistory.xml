@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.stream.IntStream"/>
+    <fullyQualifiedTypeName name="com.sasmita.unittesting.unittesting.business.SomeBusinessImpl"/>
+    <fullyQualifiedTypeName name="com.sasmita.unittesting.unittesting.data.SomeDataService"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.BeforeEach"/>
+    <fullyQualifiedTypeName name="org.mockito.Mock"/>
+    <fullyQualifiedTypeName name="org.mockito.InjectMocks"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.extension.ExtendWith"/>
+    <fullyQualifiedTypeName name="org.mockito.junit.jupiter.MockitoExtension"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTest"/>
+    <fullyQualifiedTypeName name="org.springframework.test.web.servlet.MockMvc"/>
+    <fullyQualifiedTypeName name="org.springframework.test.web.servlet.RequestBuilder"/>
+    <fullyQualifiedTypeName name="org.springframework.test.web.servlet.request.MockMvcRequestBuilders"/>
+    <fullyQualifiedTypeName name="java.awt.PageAttributes.MediaType"/>
+    <fullyQualifiedTypeName name="org.springframework.http.MediaType"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.test.mock.mockito.MockBean"/>
+    <fullyQualifiedTypeName name="javax.persistence.Entity"/>
+    <fullyQualifiedTypeName name="javax.persistence.Id"/>
+    <fullyQualifiedTypeName name="javax.persistence.Transient"/>
+    <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.JpaRepository"/>
+    <fullyQualifiedTypeName name="com.sasmita.unittesting.unittesting.model.Item"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+    <fullyQualifiedTypeName name="com.sasmita.unittesting.unittesting.business.ItemBusinessService"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.test.autoconfigure.orm.jpa.DataJpaTest"/>
+    <fullyQualifiedTypeName name="com.sasmita.unittesting.unittesting.data.ItemRepository"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.test.context.SpringBootTest"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.test.web.client.TestRestTemplate"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="org.skyscreamer.jsonassert.JSONAssert"/>
+    <fullyQualifiedTypeName name="org.assertj.core.error.ShouldHaveSameSizeAs"/>
+    <fullyQualifiedTypeName name="org.hamcrest.MatcherAssert"/>
+    <fullyQualifiedTypeName name="org.mockito.internal.matchers.GreaterThan"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.Test"/>
+    <fullyQualifiedTypeName name="com.jayway.jsonpath.JsonPath"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+</qualifiedTypeNameHistroy>

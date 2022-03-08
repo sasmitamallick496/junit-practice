@@ -1,0 +1,14 @@
+package com.sasmita.unittesting.unittesting.spike;
+
+import java.util.List;
+
+import org.junit.jupiter.api.Test;
+
+public class HamcrestMatcherTest {
+	
+	@Test
+	public void learning() {
+		List<Integer> numbers = List.of(12,13,14);
+	}
+
+}

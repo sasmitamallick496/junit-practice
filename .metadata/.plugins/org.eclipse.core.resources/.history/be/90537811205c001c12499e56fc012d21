@@ -1,0 +1,40 @@
+package com.sasmita.unittesting.unittesting.business;
+
+import static org.junit.jupiter.api.Assertions.*;
+import static org.mockito.Mockito.mock;
+import static org.mockito.Mockito.when;
+
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
+
+import com.sasmita.unittesting.unittesting.data.SomeDataService;
+
+class SomeBusinessImplTest {
+	
+	SomeBusinessImpl businessImpl = new SomeBusinessImpl();
+	SomeDataService dataServiceMock = mock(SomeDataService.class);
+	
+	@BeforeEach
+	public void before() {
+		businessImpl.setSomeDataService(dataServiceMock);
+	}
+
+	@Test
+	public void calculateSum_basic() {
+		when(dataServiceMock.retrieveAllData()).thenReturn(new int[] {1,2,3});
+		assertEquals(6, businessImpl.calculateSum());
+	}
+	
+	@Test
+	public void calculateSum_empty() {
+		when(dataServiceMock.retrieveAllData()).thenReturn(new int[] {});
+		assertEquals(0, businessImpl.calculateSum());
+	}
+	
+	@Test
+	public void calculateSum_one_value() {
+		when(dataServiceMock.retrieveAllData()).thenReturn(new int[] {10});
+		assertEquals(10, businessImpl.calculateSum());
+	}
+
+}

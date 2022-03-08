@@ -1,0 +1,14 @@
+package com.sasmita.unittesting.unittesting.spike;
+
+import org.junit.jupiter.api.Test;
+
+public class JsonAssertTest {
+	
+	String str = "{id:1,name:\"Ball\",price:10,quantity:100}";
+	
+	@Test
+	public void jsonAssert() {
+		
+	}
+
+}
